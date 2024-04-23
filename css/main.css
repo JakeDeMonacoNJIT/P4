@@ -1,0 +1,44 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212529;
+    color: #212529;
+    text-align: center;
+    padding: 10px;
+    font-size: 1rem;
+}
+
+body {
+    background-color: #FFBD59;
+}
+
+.centered-list li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.last-content-element {
+    margin-bottom: 50px;
+}
+
+ul.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+.monsters {
+    color: brown;
+}
+
+.spells {
+    color: green;
+}
+
+.traps {
+    color: purple;
+}
+
+/* DEVELOPER Jake DeMonaco, IS117-004, Spring 2024 */
